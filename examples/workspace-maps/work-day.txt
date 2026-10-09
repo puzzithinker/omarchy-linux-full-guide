@@ -1,0 +1,14 @@
+Workspace 1   Browse     browser, and the page you are reading
+Workspace 2   Make       editor, split with a terminal when you need one
+Workspace 3   Talk       mail or Signal
+Workspace 4   Agent      the default agent, left running
+
+Scratchpad               btop, a calculator, or a note you check and dismiss
+                         Super + S shows it. Super + S hides it.
+                         Super + Alt + S sends the focused window there.
+
+Send a window to workspace 3 and stay where you are:
+    Super + Shift + Alt + 3
+
+Send it and follow:
+    Super + Shift + 3

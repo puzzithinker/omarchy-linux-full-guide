@@ -1,0 +1,20 @@
+:root {
+  --vp-c-brand-1: #3d5a80;
+  --vp-c-brand-2: #2c4460;
+  --vp-c-brand-3: #6d8aaf;
+  --vp-c-brand-soft: rgba(61, 90, 128, 0.14);
+}
+
+.version-pin {
+  margin: 0 0 1.4rem;
+  padding: 0.65rem 0.85rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  color: var(--vp-c-text-2);
+  font-size: 0.86rem;
+  line-height: 1.45;
+}
+
+.version-pin a {
+  margin-left: 0.4rem;
+}
